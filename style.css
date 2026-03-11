@@ -1,0 +1,38 @@
+/* google fonte */
+@import url('https://fonts.googleapis.com/css2?family=Google+Sans:ital,opsz,wght@0,17..18,400..700;1,17..18,400..700&display=swap');
+
+:root{
+   --cor-pricipal: #202793;
+  --cor-cinza: #aea9bb;
+  --cor-vermelho: #850000; 
+  --cor-verdeescuro: #006952;
+  --cor-preto:  #000000;
+  --cor-branco: #ffffff;
+}
+body{
+    font-family: 'Google Sans', sans-serif;
+}
+
+
+
+
+
+#ancora {
+    text-decoration: none;
+    color: var(--cor-cinza);
+    font-size: 20px;
+    transition: color 0.3 ease;
+}
+#ancora:hover {
+     color: var(--cor-verdeescuro);
+     cursor: pointer;
+     tex
+
+
+}
+
+
+
+
+
+
