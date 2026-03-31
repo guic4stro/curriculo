@@ -15,8 +15,19 @@ body{
 #body {
     background-color: var(--cor-principal);
 }
+.funcao {
+    color: var(--cor-branco);
+}
+p {
+    color: var(--cor-branco);
+}
 .lead {
     font-weight: 700;
+     color: var(--cor-branco)
+}
+.titulo_habilidades {
+    font-size: 25px;
+    color: var(--cor-branco);
 }
 #rodape {
     background-color: var(--cor-preto);
@@ -24,9 +35,8 @@ body{
 }
 #ancora {
     text-decoration: none;
-    color: var(--cor-verdeescuro);
-    font-size: 20px;
-    transition: color 0.3s ease;
+    cursor: pointer;
+    text-decoration: underline;
 }
 #ancora:hover {
     color: var(--cor-vermelho);
@@ -38,11 +48,3 @@ body{
     transform: scale(1.05);
     transition: 0.3s;
 }
-
-
-
-
-
-
-
-
